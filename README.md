@@ -19,6 +19,6 @@ A chatbox functionality is also available using which users can chat with each o
 <li>JavaScript</li>
 
 ## `INSTALLATION`
-<li>Clone the repository: git clone https://soumarghadey10.github.io/Project-Management_Tool/ </li>
+<li>Clone the repository: git clone https://github.com/soumarghadey10/Project-Management_Tool.git </li>
 <li>Open the project folder in your preferred code editor.</li>
 <li>Open the index.html file in a web browser.</li>
